@@ -11,6 +11,23 @@
   </head>
 
   <body>
-    <%= yield %>
+    <nav>
+      <%= image_tag("logo.png") %>
+      <ul>
+        <li>
+          <%= link_to "All Movies", root_path %>
+        </li>
+      </ul>
+    </nav>
+
+    <div class="content">
+      <%= yield %>
+    </div>
+
+    <footer>
+      <p>
+        Copyright &copy; Mai Khuu, <%= Time.now.year %>
+      </p>
+    </footer>
   </body>
 </html>
