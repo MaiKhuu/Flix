@@ -15,3 +15,10 @@
     </table>
   </div>
 </section>
+
+<section class="admin">
+  <%= link_to "Edit", edit_movie_path(@movie), class: "button" %>
+  <%= link_to "Delete", movie_path(@movie), class: "button", 
+        data: { turbo_method: :delete, 
+                turbo_confirm: "Confirm you want to delete movie" }%>
+</section>
