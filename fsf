@@ -1,0 +1,122 @@
+=> 
+[[32m#<Movie:0x00000170a5054120[0m
+  id: [34m[1m8[0m,
+  title: [31m[1m"[0m[31mSuperman[0m[31m[1m"[0m,
+  rating: [31m[1m"[0m[31mPG[0m[31m[1m"[0m,
+  total_gross: [35m[1m0.300451603e9[0m,
+  created_at:
+   Wed, 07 Feb 2024 06:30:40.751561000 UTC +00:00,
+  updated_at:
+   Wed, 07 Feb 2024 06:30:40.751561000 UTC +00:00,
+  description:
+   [31m[1m"[0m[31mAn alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest super-hero.[0m[31m[1m"[0m,
+  released_on: Fri, 15 Dec 1978[32m>[0m,
+ [32m#<Movie:0x00000170a5053fe0[0m
+  id: [34m[1m10[0m,
+  title: [31m[1m"[0m[31mBatman[0m[31m[1m"[0m,
+  rating: [31m[1m"[0m[31mPG-13[0m[31m[1m"[0m,
+  total_gross: [35m[1m0.411348924e9[0m,
+  created_at:
+   Wed, 07 Feb 2024 06:30:40.769005000 UTC +00:00,
+  updated_at:
+   Wed, 07 Feb 2024 06:30:40.769005000 UTC +00:00,
+  description:
+   [31m[1m"[0m[31mThe Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.[0m[31m[1m"[0m,
+  released_on: Fri, 23 Jun 1989[32m>[0m,
+ [32m#<Movie:0x00000170a5053ea0[0m
+  id: [34m[1m9[0m,
+  title: [31m[1m"[0m[31mSpider-Man[0m[31m[1m"[0m,
+  rating: [31m[1m"[0m[31mPG-13[0m[31m[1m"[0m,
+  total_gross: [35m[1m0.825025036e9[0m,
+  created_at:
+   Wed, 07 Feb 2024 06:30:40.759655000 UTC +00:00,
+  updated_at:
+   Wed, 07 Feb 2024 06:30:40.759655000 UTC +00:00,
+  description:
+   [31m[1m"[0m[31mWhen bitten by a genetically modified spider, a nerdy, shy, and awkward high school student gains spider-like abilities that he eventually must use to fight evil as a superhero after tragedy befalls his family.[0m[31m[1m"[0m,
+  released_on: Fri, 03 May 2002[32m>[0m,
+ [32m#<Movie:0x00000170a5053d60[0m
+  id: [34m[1m11[0m,
+  title: [31m[1m"[0m[31mCatwoman[0m[31m[1m"[0m,
+  rating: [31m[1m"[0m[31mPG-13[0m[31m[1m"[0m,
+  total_gross: [35m[1m0.82102379e8[0m,
+  created_at:
+   Wed, 07 Feb 2024 06:30:40.776451000 UTC +00:00,
+  updated_at:
+   Wed, 07 Feb 2024 06:30:40.776451000 UTC +00:00,
+  description:
+   [31m[1m"[0m[31mPatience Philips seems destined to spend her life apologizing for taking up space. Despite her artistic ability she has a more than respectable career as a graphic designer.[0m[31m[1m"[0m,
+  released_on: Fri, 23 Jul 2004[32m>[0m,
+ [32m#<Movie:0x00000170a5053c20[0m
+  id: [34m[1m7[0m,
+  title: [31m[1m"[0m[31mIron Man[0m[31m[1m"[0m,
+  rating: [31m[1m"[0m[31mPG-13[0m[31m[1m"[0m,
+  total_gross: [35m[1m0.585366247e9[0m,
+  created_at:
+   Wed, 07 Feb 2024 06:30:40.741665000 UTC +00:00,
+  updated_at:
+   Wed, 07 Feb 2024 06:30:40.741665000 UTC +00:00,
+  description:
+   [31m[1m"[0m[31mWhen wealthy industrialist Tony Stark is forced to build an armored suit after a life-threatening incident, he ultimately decides to use its technology to fight against evil.[0m[31m[1m"[0m,
+  released_on: Fri, 02 May 2008[32m>[0m,
+ [32m#<Movie:0x00000170a5053ae0[0m
+  id: [34m[1m5[0m,
+  title: [31m[1m"[0m[31mGreen Lantern[0m[31m[1m"[0m,
+  rating: [31m[1m"[0m[31mPG-13[0m[31m[1m"[0m,
+  total_gross: [35m[1m0.219851172e9[0m,
+  created_at:
+   Wed, 07 Feb 2024 06:30:40.723779000 UTC +00:00,
+  updated_at:
+   Wed, 07 Feb 2024 06:30:40.723779000 UTC +00:00,
+  description:
+   [31m[1m"[0m[31mReckless test pilot Hal Jordan is granted an alien ring that bestows him with otherworldly powers that inducts him into an intergalactic police force, the Green Lantern Corps.[0m[31m[1m"[0m,
+  released_on: Fri, 17 Jun 2011[32m>[0m,
+ [32m#<Movie:0x00000170a50539a0[0m
+  id: [34m[1m6[0m,
+  title: [31m[1m"[0m[31mFantastic Four[0m[31m[1m"[0m,
+  rating: [31m[1m"[0m[31mPG-13[0m[31m[1m"[0m,
+  total_gross: [35m[1m0.16825786e9[0m,
+  created_at:
+   Wed, 07 Feb 2024 06:30:40.734196000 UTC +00:00,
+  updated_at:
+   Wed, 07 Feb 2024 06:30:40.734196000 UTC +00:00,
+  description:
+   [31m[1m"[0m[31mFour young outsiders teleport to an alternate and dangerous universe which alters their physical form in shocking ways. The four must learn to harness their new abilities and work together to save Earth from a former friend turned enemy.[0m[31m[1m"[0m,
+  released_on: Fri, 07 Aug 2015[32m>[0m,
+ [32m#<Movie:0x00000170a5053860[0m
+  id: [34m[1m12[0m,
+  title: [31m[1m"[0m[31mWonder Woman[0m[31m[1m"[0m,
+  rating: [31m[1m"[0m[31mPG-13[0m[31m[1m"[0m,
+  total_gross: [35m[1m0.821847012e9[0m,
+  created_at:
+   Wed, 07 Feb 2024 06:30:40.785635000 UTC +00:00,
+  updated_at:
+   Wed, 07 Feb 2024 06:30:40.785635000 UTC +00:00,
+  description:
+   [31m[1m"[0m[31mWhen a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.[0m[31m[1m"[0m,
+  released_on: Fri, 02 Jun 2017[32m>[0m,
+ [32m#<Movie:0x00000170a5053720[0m
+  id: [34m[1m3[0m,
+  title: [31m[1m"[0m[31mBlack Panther[0m[31m[1m"[0m,
+  rating: [31m[1m"[0m[31mPG-13[0m[31m[1m"[0m,
+  total_gross: [35m[1m0.1346913161e10[0m,
+  created_at:
+   Wed, 07 Feb 2024 06:30:40.701306000 UTC +00:00,
+  updated_at:
+   Wed, 07 Feb 2024 06:30:40.701306000 UTC +00:00,
+  description:
+   [31m[1m"[0m[31mT'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.[0m[31m[1m"[0m,
+  released_on: Fri, 16 Feb 2018[32m>[0m,
+ [32m#<Movie:0x00000170a50535e0[0m
+  id: [34m[1m4[0m,
+  title: [31m[1m"[0m[31mAvengers: Infinity War[0m[31m[1m"[0m,
+  rating: [31m[1m"[0m[31mPG-13[0m[31m[1m"[0m,
+  total_gross: [35m[1m0.2048359754e10[0m,
+  created_at:
+   Wed, 07 Feb 2024 06:30:40.715800000 UTC +00:00,
+  updated_at:
+   Wed, 07 Feb 2024 06:30:40.715800000 UTC +00:00,
+  description:
+   [31m[1m"[0m[31mThe Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.[0m[31m[1m"[0m,
+  released_on: Fri, 27 Apr 2018[32m>[0m,
+ [31m[1m"[0m[31m...[0m[31m[1m"[0m]
